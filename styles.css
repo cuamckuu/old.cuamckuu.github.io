@@ -48,6 +48,10 @@ blockquote {
 
 @media screen and (orientation: portrait),
 {
+    img {
+        width: 95%;
+    }
+
     body {
         margin: 10px;
         font-size: 15pt;
