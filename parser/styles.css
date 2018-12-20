@@ -1,0 +1,28 @@
+* {
+    font-size: 14pt;
+    font-family: "Courier", "Arial";
+}
+
+body {
+    padding: 20px;
+}
+
+table {
+    display: inline-block;
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+td {
+    border: solid black 1px;
+    padding: 5px;
+}
+
+img {
+    width: 70%;
+}
+
+div {
+    border: solid gray 1px;
+    padding: 20px;
+}
