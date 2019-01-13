@@ -1,0 +1,17 @@
+.true {
+	background-color: #4CAF50; /* Green */
+}
+
+.false {
+    background-color: #F44336; /* Red */
+}
+
+#background {
+	border: none;
+	color: white;
+	padding: 35px 62px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 22pt;
+}
