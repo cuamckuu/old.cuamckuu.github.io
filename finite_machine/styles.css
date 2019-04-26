@@ -1,0 +1,25 @@
+* {
+    font-size: 14pt;
+    font-family: "Courier", "Arial";
+
+}
+
+body {
+    padding: 20px;
+}
+
+.gameboard {
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid black;
+    background-color: #f9f9f9;
+}
+
+div {
+    display: inline-block;
+    margin: 20px;
+}
+
+#lamp-on {
+    color: #000000;
+}
